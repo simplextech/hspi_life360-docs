@@ -47,6 +47,14 @@ If you are having issues, please let us know.
 Screenshots
 -----------
 
-Life360 Plugin Attribute Devices:
+Attribute Devices:
 
 .. image:: ../images/life360-attributes.png
+
+Places Devices:
+
+.. image:: ../images/life360-places.png
+
+Google Map Devices:
+
+.. image:: ../images/life360-googleMap.png
