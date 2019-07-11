@@ -2,6 +2,7 @@
 Usage
 ========
 
-To use this template, simply update it::
+Usage and Event samples::
 
-	import read-the-docs-template
+	Coming Soon
+
