@@ -42,4 +42,4 @@ Support
 -------
 
 If you are having issues, please let us know.
-Link HomeSeer Life360 Forum <https://forums.homeseer.com/forum/ultilities-plug-ins/utilities-discussion/life360-simplex-technology>
+`Link HomeSeer Life360 Forum <https://forums.homeseer.com/forum/ultilities-plug-ins/utilities-discussion/life360-simplex-technology>`_
