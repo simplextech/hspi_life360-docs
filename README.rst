@@ -1,27 +1,36 @@
-Template
+Life360 Plugin
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
-
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
+Life360 Plugin for HomeSeer Home Automation System.
 
 Features
 --------
 
-- Be awesome
-- Make things faster
+- Creates "Root" device for all Life360 Members
+  - Supports multiple-circles
+- Creates "Child" devices for Life360 Member attributes
+  - Contact Informatoin (E-Mail, Phone)
+  - Places (Multi-Circle Supported)
+  - Latitude / Longitude
+  - GPS Accuracy
+  - In Transit
+  - Speed
+  - Address if not in a Places
+  - Battery Level
+  - Battery charge status (charging true/false)
+  - Wifi State (On/Off)
+- Google Maps Support
+  - Google Dynamic Maps
+  - Google Static Map Link (Requires Google Maps API Key)
+  
 
 Installation
 ------------
 
-Install $project by running:
+Install the plugin from the HomeSeer Plug-In Updater::
 
-    install project
+    Plug-Ins -> Manage -> Additional Interfaces
+    Life360 is listed under "Utilities"
 
 Contribute
 ----------
