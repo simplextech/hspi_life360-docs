@@ -18,7 +18,7 @@ Features
   * GPS Accuracy
   * In Transit
   * Speed
-  * Address if not in a Places
+  * Address if not in a Place
   * Battery Level
   * Battery charge status (charging true/false)
   * Wifi State (On/Off)
