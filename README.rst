@@ -43,3 +43,10 @@ Support
 
 If you are having issues, please let us know.
 `HomeSeer Life360 Forum <https://forums.homeseer.com/forum/ultilities-plug-ins/utilities-discussion/life360-simplex-technology>`_
+
+Screenshots
+-----------
+
+Life360 Plugin Attribute Devices:
+
+.. image:: images/life360-attributes.png
