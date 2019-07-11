@@ -4,7 +4,6 @@
    contain the root `toctree` directive.
 
 HomeSeer Plugin:  Life360 Documentation
-Welcome to Read the Docs Template's documentation!
 ==================================================
 
 Contents:

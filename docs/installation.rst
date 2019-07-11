@@ -2,6 +2,8 @@
 Installation
 ============
 
-Install the package with pip::
+Install the plugin from the HomeSeer Plug-In Updater::
 
-    $ pip install read-the-docs-template
+    Plug-Ins -> Manage -> Additional Interfaces
+    Life360 is listed under "Utilities"
+
