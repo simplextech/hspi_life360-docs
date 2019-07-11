@@ -49,5 +49,6 @@ Screenshots
 
 Life360 Plugin Attribute Devices:
 
-.. image:: images/life360-attributes.png
+.. image:: /images/life360-attributes.png
+.. image:: ../images/life360-attributes.png
 .. image:: life360-attributes.png
