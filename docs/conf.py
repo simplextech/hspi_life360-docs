@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'HomeSeer Life360 Plug-In'
+project = u'HomeSeer Plugin: Life360'
 copyright = u'2019, Simplex Technology'
 
 # The version info for the project you're documenting, acts as replacement for
