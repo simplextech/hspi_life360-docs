@@ -1,5 +1,5 @@
 Life360 Plugin
-========
+==============
 
 Life360 Plugin for HomeSeer Home Automation System.
 
